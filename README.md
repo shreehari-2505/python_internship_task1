@@ -13,11 +13,11 @@ Feature scaling was achieved through standardization using StandardScaler on num
 Before-and-after visualizations and statistics were included to demonstrate the effectiveness of each transformation, resulting in a fully prepared dataset suitable for machine learning applications such as price prediction.
 
 Repository Contents
-preprocessing_notebook.ipynb: Core notebook with code, explanations, and visualizations.
+internship_task1.ipynb: Core notebook with code, explanations, and visualizations.
 
 train.csv: Original Kaggle dataset.
 
 cleaned_data.csv: Preprocessed output file.
 
 Execution Instructions
-Open preprocessing_notebook.ipynb in Google Colab. Upload train.csv if necessary and execute the cells sequentially. No additional installations are required beyond standard libraries.
+Open internship_task1.ipynb in Google Colab. Upload train.csv if necessary and execute the cells sequentially. No additional installations are required beyond standard libraries.
